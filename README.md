@@ -4,7 +4,7 @@
 
 The solidity contracts are all in the [contracts](./contracts) folder. 
 
-For deployment instructions, please see this video:
+For deployment instructions, please see this [Youtube Video](https://www.youtube.com/watch?v=EYvdUs_fzXw).
 
 
 ## Evaluation Evidence
